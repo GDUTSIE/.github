@@ -7,7 +7,9 @@
 
 ## 介绍
 
-欢迎来到广东工业大学国际教育学院（GDUTSIE）的GitHub组织！GDUTSIE是广东工业大学国际教育学院的缩写，我们是一个由在校学生组织的非官方平台，旨在为同学们提供一个共享课程资料的平台。这里包括了许多与学院相关的课程、项目和资源，以帮助学生更好地学习和提高自己的技能。
+欢迎来到广东工业大学国际教育学院（GDUTSIE）的GitHub组织！我们是一个由在校学生组织的非官方平台，旨在为同学们提供一个共享课程资料的平台。这里包括了许多与学院相关的课程、项目和资源，以帮助学生更好地学习和提高自己的技能。
+
+由于国院教学体系和本部有些许差别，同时也不像本部拥有许多学长学姐留下的资源，因此本项目是为了服务国院当下以及以后的同学而立。
 
 ## 资源
 
@@ -18,9 +20,24 @@
 - 项目代码：学生项目的源代码及相关文档
 - 学习资源：学院推荐的学习资料、工具及相关教程
 
+## 相似资源
+- [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
+- [广东工业大学保研生存指南](https://github.com/metaphysicser/GDUT-Computer-Survival-Manual)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北京大学课程资料整理](https://github.com/lib-pku/libpku)
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+- [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
+- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+- [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
+- [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
+- [华南师范大学 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
+- [CS自学指南-北大信科](https://github.com/pkuflyingpig/cs-self-learning/)
+
 ## 如何申请加入
 
-目前，GDUTSIE的课程资料仅对广东工业大学国际教育学院的在校学生开放，相关资料均在私有仓库中。若您想查看这些资料，请您申请加入我们的组织，并按照以下步骤操作：
+目前，GDUTSIE的课程资料仅对广东工业大学国际教育学院的在校学生开放，相关资料均在私有仓库中（后继会开放为公有仓库）。若您想查看这些资料，请您申请加入我们的组织，并按照以下步骤操作：
 
 1. 注册并登录您的GitHub账户。
 
@@ -64,7 +81,7 @@
  - 如果您不太熟悉使用`git`命令，那么你可以按照以下步骤进行操作：
 
 1. 在GitHub上创建一个帐户并登录。
-2. 转到您的仓库页面并单击“Fork”按钮，这将在您的同学的帐户下创建一个仓库副本。
+2. 转到您的仓库页面并单击“Fork”按钮，这将在您的帐户下创建一个仓库副本。
 3. 在副本仓库中进行更改：单击文件并单击编辑按钮，或者单击“Upload files”按钮上传新文件。
 4. 提交更改：在编辑页面底部，填写提交信息并单击“Commit changes”按钮。
 5. 创建一个拉取请求（PR）：转到您的仓库页面，单击“New pull request”按钮，选择您的同学的分支并创建PR。
